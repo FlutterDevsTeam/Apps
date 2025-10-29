@@ -1,0 +1,9 @@
+{
+    "versionCode":1,
+    "versionName":"1.0",
+    "downloadURL":"https://raw.githubusercontent.com/FlutterDevsTeam/Apps/main/01/ih.apk",
+    "dateVersion":"01/01/2027",
+    "appVersion":false,
+    "optional":false,
+    "optionalUrl":"https://qas.stli.cl/Apps/version.txt"
+}
